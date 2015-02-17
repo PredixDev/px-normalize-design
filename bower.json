@@ -1,0 +1,27 @@
+{
+  "name": "px-normalize.css-design",
+  "version": "0.0.1",
+  "authors": [
+    "General Electric"
+  ],
+  "description": "Nicolas Gallagher’s Normalize.css for Predix Experience",
+  "main": "_generic.normalize.scss",
+  "keywords": [
+    "px",
+    "sass",
+    "normalize.css"
+  ],
+  "license": "Apache 2",
+  "homepage": "git://github.sw.ge.com/pxc/px-normalize.css-design.git",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "px-functions-design": "git://github.sw.ge.com/pxc/px-functions-design.git#master"
+  }
+}
