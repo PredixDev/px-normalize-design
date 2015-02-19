@@ -10,7 +10,7 @@
    *    user zoom.
    */
   
-  html {
+  html, :host {
     font-family: sans-serif; /* 1 */
     -ms-text-size-adjust: 100%; /* 2 */
     -webkit-text-size-adjust: 100%; /* 2 */
@@ -20,7 +20,7 @@
    * Remove default margin.
    */
   
-  body {
+  body, :host {
     margin: 0;
   }
   
@@ -292,7 +292,8 @@
    */
   
   button,
-  html input[type="button"], /* 1 */
+  html input[type="button"],
+  :host input[type="button"], /* 1 */
   input[type="reset"],
   input[type="submit"] {
     -webkit-appearance: button; /* 2 */
@@ -304,7 +305,8 @@
    */
   
   button[disabled],
-  html input[disabled] {
+  html input[disabled],
+  :host input[disabled] {
     cursor: default;
   }
   
