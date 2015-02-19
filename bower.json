@@ -1,5 +1,5 @@
 {
-  "name": "px-normalize.css-design",
+  "name": "px-normalize-design",
   "version": "0.0.1",
   "authors": [
     "General Electric"
@@ -12,7 +12,7 @@
     "normalize.css"
   ],
   "license": "Apache 2",
-  "homepage": "git://github.sw.ge.com/pxc/px-normalize.css-design.git",
+  "homepage": "git://github.sw.ge.com/pxc/px-normalize-design.git",
   "private": true,
   "ignore": [
     "**/.*",
