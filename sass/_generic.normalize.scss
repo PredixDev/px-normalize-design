@@ -292,10 +292,14 @@
    */
   
   button,
-  html input[type="button"],
-  :host input[type="button"], /* 1 */
+  html input[type="button"], /* 1 */
   input[type="reset"],
   input[type="submit"] {
+    -webkit-appearance: button; /* 2 */
+    cursor: pointer; /* 3 */
+  }
+  
+  :host input[type="button"] /* 1 */ {
     -webkit-appearance: button; /* 2 */
     cursor: pointer; /* 3 */
   }
@@ -305,7 +309,10 @@
    */
   
   button[disabled],
-  html input[disabled],
+  html input[disabled] {
+    cursor: default;
+  }
+  
   :host input[disabled] {
     cursor: default;
   }
