@@ -2,7 +2,9 @@
   "name": "px-normalize-design",
   "version": "0.0.1",
   "authors": [
-    "General Electric"
+    "General Electric",
+    "Harry Roberts <harry@csswizardry.com>",
+    "Nicolas Gallagher <nicolasgallagher@gmail.com>"
   ],
   "description": "Nicolas Gallagher’s Normalize.css for Predix Experience",
   "main": "_generic.normalize.scss",
@@ -11,7 +13,7 @@
     "sass",
     "normalize.css"
   ],
-  "license": "Apache 2",
+  "license": "MIT",
   "homepage": "git://github.sw.ge.com/pxc/px-normalize-design.git",
   "private": true,
   "ignore": [
