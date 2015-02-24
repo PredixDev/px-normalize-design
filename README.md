@@ -2,7 +2,7 @@
 
 The Predix Experience Normalize module is based on normalize.css at version v3.0.2. normalize.css <q>makes browsers render all elements more consistently and in line with modern standards</q>. It is developed and maintained by [Nicolas Gallagher](https://twitter.com/necolas).
 
-## Dependencies
+## Dependency
 
 Px's Normalize module depends on one other Px module:
 
@@ -16,7 +16,7 @@ The Normalize module is also an upstream dependency in this meta kit:
 
 ## Installation
 
-Install this module and its dependencies using bower
+Install this module and its dependency using bower:
 
     bower install --save https://github.sw.ge.com/pxc/px-normalize-design.git
 
