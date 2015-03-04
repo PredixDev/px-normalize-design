@@ -22,7 +22,9 @@ Install this module and its dependency using bower:
 
 Once installed, `@import` into your project's Sass file in its Generic layer:
 
-    @import "px-normalize-design/sass/generic.normalize";
+    @import "../px-normalize-design/generic.normalize";
+
+See [px-getting-started](https://github.sw.ge.com/pxc/px-getting-started#a-note-about-relative-import-paths) for an explanation of the `../`
 
 ## Import once
 
