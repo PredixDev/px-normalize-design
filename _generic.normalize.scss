@@ -120,7 +120,17 @@
   }
   
   
+  /**
+   * Remove extra vertical spacing when nesting lists.
+   */
+  li {
   
+      > ul,
+      > ol {
+          margin-bottom: 0;
+      }
+  
+  }
   
   
   /**
