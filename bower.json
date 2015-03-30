@@ -14,7 +14,7 @@
     "normalize.css"
   ],
   "license": "MIT",
-  "homepage": "git://github.sw.ge.com/pxc/px-normalize-design.git",
+  "homepage": "git://github.sw.ge.com/PXd/px-normalize-design.git",
   "private": true,
   "ignore": [
     "**/.*",
@@ -25,6 +25,6 @@
   ],
   "dependencies": {
     "inuit-defaults": "~0.2.2",
-    "px-functions-design": "git://github.sw.ge.com/pxc/px-functions-design.git#master"
+    "px-functions-design": "git://github.sw.ge.com/PXd/px-functions-design.git#master"
   }
 }

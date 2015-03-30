@@ -6,25 +6,25 @@ The Predix Experience Normalize module is based on normalize.css at version v3.0
 
 Px's Normalize module depends on one other Px module:
 
-* [px-functions-design](https://github.sw.ge.com/pxc/px-functions-design)
+* [px-functions-design](https://github.sw.ge.com/PXd/px-functions-design)
 
 ## Upstream dependency
 
 The Normalize module is also an upstream dependency in this meta kit:
 
-* [px-starter-kit-design](https://github.sw.ge.com/pxc/px-starter-kit-design)
+* [px-starter-kit-design](https://github.sw.ge.com/PXd/px-starter-kit-design)
 
 ## Installation
 
 Install this module and its dependency using bower:
 
-    bower install --save https://github.sw.ge.com/pxc/px-normalize-design.git
+    bower install --save https://github.sw.ge.com/PXd/px-normalize-design.git
 
 Once installed, `@import` into your project's Sass file in its Generic layer:
 
     @import "../px-normalize-design/generic.normalize";
 
-See [px-getting-started](https://github.sw.ge.com/pxc/px-getting-started#a-note-about-relative-import-paths) for an explanation of the `../`
+See [px-getting-started](https://github.sw.ge.com/PXd/px-getting-started#a-note-about-relative-import-paths) for an explanation of the `../`
 
 ## Import once
 
