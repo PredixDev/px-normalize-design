@@ -4,8 +4,9 @@ The Predix Experience Normalize module is based on normalize.css at version v3.0
 
 ## Dependency
 
-Px's Normalize module depends on one other Px module:
+Px's Normalize module depends on two other Px module:
 
+* [px-defaults-design](https://github.sw.ge.com/PXd/px-defaults-design)
 * [px-functions-design](https://github.sw.ge.com/PXd/px-functions-design)
 
 ## Upstream dependency
