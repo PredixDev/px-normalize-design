@@ -116,7 +116,6 @@
   pre,
   %margin-bottom {
       margin-bottom: $inuit-base-spacing-unit;
-      margin-bottom: ($inuit-base-spacing-unit / $inuit-base-font-size) * 1rem;
   }
   
   
@@ -140,7 +139,6 @@
   ul, ol, dd,
   %margin-left {
       margin-left: 2 * $inuit-base-spacing-unit;
-      margin-left: (2 * $inuit-base-spacing-unit / $inuit-base-font-size) * 1rem;
   }
 
   
