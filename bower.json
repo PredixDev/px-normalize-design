@@ -1,6 +1,6 @@
 {
   "name": "px-normalize-design",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "authors": [
     "General Electric",
     "Harry Roberts <harry@csswizardry.com>",
@@ -14,7 +14,7 @@
     "normalize.css"
   ],
   "license": "MIT",
-  "homepage": "git://github.sw.ge.com/PXd/px-normalize-design.git",
+  "homepage": "git://github.build.ge.com/PXd/px-normalize-design.git",
   "private": true,
   "ignore": [
     "**/.*",
@@ -24,7 +24,6 @@
     "tests"
   ],
   "dependencies": {
-    "px-defaults-design": "git://github.sw.ge.com/PXd/px-defaults-design.git#~0.1.0",
-    "px-functions-design": "git://github.sw.ge.com/PXd/px-functions-design.git#~0.1.0"
+    "px-defaults-design": "git://github.build.ge.com/PXd/px-defaults-design.git#~0.1.0"
   }
 }
