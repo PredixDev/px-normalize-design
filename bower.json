@@ -13,7 +13,6 @@
     "sass",
     "normalize.css"
   ],
-  "license": "MIT",
   "homepage": "https://github.com/PredixDev/px-normalize-design.git",
   "private": false,
   "ignore": [
