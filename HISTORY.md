@@ -1,6 +1,11 @@
+v0.3.18
+==================
+* Remove setting of background to :host selector.
+
 v0.3.17
 ==================
 * Move to style modules to demos
+
 v0.3.16
 ==================
 * Apply subset of normalize settings to :root selector as well as html
