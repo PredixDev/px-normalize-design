@@ -1,3 +1,7 @@
+v0.4.0
+==================
+* Updated dependencies
+
 v0.3.18
 ==================
 * Remove setting of background to :host selector.
