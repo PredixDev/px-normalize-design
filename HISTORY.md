@@ -1,6 +1,10 @@
+v1.0.0-prerelease
+==================
+* updated dependencies for design refresh
+
 v0.4.4
 ==================
-* updated to new demo using px-demo classes 
+* updated to new demo using px-demo classes
 
 v0.4.3
 ==================
