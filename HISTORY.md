@@ -1,6 +1,7 @@
 v1.0.0-prerelease
 ==================
 * updated dependencies for design refresh
+* directly setting font-size to 15px so that 1em = 15px
 
 v0.4.4
 ==================
