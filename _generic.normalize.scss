@@ -19,7 +19,6 @@
 html {
   background-color: $inuit-base-background-color;
   font-size: $inuit-base-font-size; /* [1] */
-  line-height: $inuit-base-line-height / $inuit-base-font-size; /* [1] */
   overflow-y: scroll; /* [2] */
   min-height: 100%; /* [3] */
 }
