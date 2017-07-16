@@ -1,16 +1,16 @@
-# Normalize
+# px-normalize-design
 
 The Predix UI Normalize module is based on normalize.css at version v3.0.2. normalize.css <q>makes browsers render all elements more consistently and in line with modern standards</q>. It is developed and maintained by [Nicolas Gallagher](https://twitter.com/necolas).
 
 ## Dependency
 
-Predix UI's Normalize module depends on one other Px module:
+The px-normalize-design module depends on one other Px module:
 
 * [px-defaults-design](https://github.com/PredixDev/px-defaults-design)
 
 ## Upstream dependency
 
-The Normalize module is also an upstream dependency in this meta kit:
+The px-normalize-design module is also an upstream dependency in this meta kit:
 
 * [px-starter-kit-design](https://github.com/PredixDev/px-starter-kit-design)
 
