@@ -1,3 +1,7 @@
+v1.0.1
+==================
+* Remove unused import in demo
+
 v1.0.0
 ==================
 * updated dependencies for design refresh
