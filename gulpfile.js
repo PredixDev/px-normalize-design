@@ -70,6 +70,7 @@ gulp.task('sass', function() {
         return path.basename(file.path, path.extname(file.path)) + '-styles';
       }
     }))
+    .pipe(ensureLicense())
     .pipe(gulp.dest('css'))
     .pipe(browserSync.stream({ match: 'css/*.html' }));
 });
